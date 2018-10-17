@@ -1,3 +1,6 @@
-#story {
+#postcard {
   display: none;
+  margin-top: 20px;
+  width: 750px;
+  height: 480px;
 }
